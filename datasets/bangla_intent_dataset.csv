@@ -1,0 +1,201 @@
+text,intent
+whatsapp e chobi pathate chai,send_photo_whatsapp
+whatsapp e photo pathao,send_photo_whatsapp
+whatsap chobi pathabo,send_photo_whatsapp
+watsap e chobi patha,send_photo_whatsapp
+হোয়াটসঅ্যাপে ছবি পাঠাবো,send_photo_whatsapp
+ওয়াটসাপে ফটো দাও,send_photo_whatsapp
+whatsapp e pic pathate chai,send_photo_whatsapp
+whatsapp chobi dimu,send_photo_whatsapp
+whatsap e sobi pathao,send_photo_whatsapp
+whatsapp e ekta chobi dao,send_photo_whatsapp
+হোয়াটসাপ ছবি কিভাবে পাঠাবো,send_photo_whatsapp
+watsap chobi patabo,send_photo_whatsapp
+photo ta whatsapp e pathao,send_photo_whatsapp
+whatsapp e file er moto chobi pathai,send_photo_whatsapp
+chobi pathate hobe whatsapp e,send_photo_whatsapp
+whatsapp e ekta pic dite chai,send_photo_whatsapp
+whatsap e chobi diya dao,send_photo_whatsapp
+watsap sobi patha,send_photo_whatsapp
+photo pathano lagbe whatsapp e,send_photo_whatsapp
+whatsapp e chobi send korbo,send_photo_whatsapp
+mobile data on koro,mobile_data_on
+data ta chalu koro,mobile_data_on
+neta chalu korte chai,mobile_data_on
+ডাটা চালু করো,mobile_data_on
+internet on nai chalu korte hobe,mobile_data_on
+data on korte parbo kivabe,mobile_data_on
+neta dao,mobile_data_on
+mobile er data ta on koro,mobile_data_on
+data chalu nai,mobile_data_on
+ডাটা অন করবো,mobile_data_on
+neta chalu koren,mobile_data_on
+data ta diya dao,mobile_data_on
+internet ta chalu koro,mobile_data_on
+data on korte hobe,mobile_data_on
+mobile internet lagbe,mobile_data_on
+data nai chalu koro,mobile_data_on
+neta ta dao,mobile_data_on
+data on nai,mobile_data_on
+internet chalu nai,mobile_data_on
+data enable korte chai,mobile_data_on
+bkash e taka pathabo,send_money_bkash
+bkash diye taka pathate chai,send_money_bkash
+bkash e send money korbo,send_money_bkash
+bkash e taka pathao,send_money_bkash
+bikash e taka dimu,send_money_bkash
+bkash taka send kora lagbe,send_money_bkash
+bkash e taka pathanor niyom ki,send_money_bkash
+bkash e taka dite hobe,send_money_bkash
+bikash e taka diya dao,send_money_bkash
+bkash send money,send_money_bkash
+bkash e taka pathate hobe,send_money_bkash
+bkash e tk patha,send_money_bkash
+bikash e taka patamu,send_money_bkash
+bkash taka send koro,send_money_bkash
+bkash e taka dao,send_money_bkash
+bkash e taka kivabe pathai,send_money_bkash
+bkash tk pathabo,send_money_bkash
+bkash e money send chai,send_money_bkash
+bikash e taka pathao,send_money_bkash
+bkash e taka diya dite chai,send_money_bkash
+bkash diye recharge korbo,recharge_bkash
+mobile recharge bkash e korte chai,recharge_bkash
+bkash e recharge dao,recharge_bkash
+bkash e taka diye recharge koro,recharge_bkash
+bikash e recharge dimu,recharge_bkash
+bkash recharge kora lagbe,recharge_bkash
+bkash e recharge korte hobe,recharge_bkash
+mobile e recharge chai bkash e,recharge_bkash
+bkash e flexiload dao,recharge_bkash
+bkash e recharge koro,recharge_bkash
+bikash e load dimu,recharge_bkash
+bkash recharge chai,recharge_bkash
+bkash e mobile load dao,recharge_bkash
+bkash e recharge kivabe korbo,recharge_bkash
+bkash e load dite chai,recharge_bkash
+bkash e recharge pathao,recharge_bkash
+bkash e taka diye load dao,recharge_bkash
+bkash e recharge lagbe,recharge_bkash
+bikash e recharge dao,recharge_bkash
+bkash e mobile recharge chai,recharge_bkash
+contact ta khuje dao,find_contact
+number ta ber korte chai,find_contact
+phone contact khujte chai,find_contact
+contact list e dekhao,find_contact
+number ta koi ache,find_contact
+contact khujte hobe,find_contact
+phone number ber koro,find_contact
+contact list kholo,find_contact
+contact ta lagbe,find_contact
+number ta khuje pai na,find_contact
+contact ber koro,find_contact
+contact dekhte chai,find_contact
+phone e number khujbo,find_contact
+contact ta koi,find_contact
+contact search koro,find_contact
+contact list theke ber koro,find_contact
+number lagbe khuje dao,find_contact
+contact ta dekhaw,find_contact
+contact koi ase,find_contact
+contact ta paite chai,find_contact
+notun contact save korbo,save_contact
+number ta save korte chai,save_contact
+contact hishebe rakhbo,save_contact
+phone number save koro,save_contact
+contact add koro,save_contact
+new contact banate chai,save_contact
+number ta dhore rakhbo,save_contact
+contact e add koro,save_contact
+save number,save_contact
+contact save korte hobe,save_contact
+notun number save dao,save_contact
+contact add korte chai,save_contact
+phone e number save koro,save_contact
+contact e rakho,save_contact
+number ta save kora lagbe,save_contact
+new contact add,save_contact
+contact hishebe save chai,save_contact
+number ta add dao,save_contact
+contact e notun number dao,save_contact
+save korte chai number,save_contact
+whatsapp e file pathate chai,send_file_whatsapp
+whatsapp e document dao,send_file_whatsapp
+whatsap file pathabo,send_file_whatsapp
+watsap e file patha,send_file_whatsapp
+file ta whatsapp e pathao,send_file_whatsapp
+whatsapp e pdf pathabo,send_file_whatsapp
+whatsapp e document dite chai,send_file_whatsapp
+file send whatsapp,send_file_whatsapp
+whatsap e file dao,send_file_whatsapp
+whatsapp e file pathanor niyom ki,send_file_whatsapp
+file ta pathate hobe whatsapp e,send_file_whatsapp
+whatsapp e doc pathao,send_file_whatsapp
+watsap file diya dao,send_file_whatsapp
+whatsapp e ekta file dimu,send_file_whatsapp
+file pathate chai whatsapp e,send_file_whatsapp
+whatsapp e file send korbo,send_file_whatsapp
+doc pathao whatsapp e,send_file_whatsapp
+file pathao whatsap,send_file_whatsapp
+whatsapp e file dite chai,send_file_whatsapp
+file whatsapp e dao,send_file_whatsapp
+messenger e call dibo,call_messenger
+messenger e phone korbo,call_messenger
+messenger e call dao,call_messenger
+messenger call korte chai,call_messenger
+fb messenger call,call_messenger
+messenger diye call koro,call_messenger
+messenger e video call dibo,call_messenger
+messenger e call dite hobe,call_messenger
+messenger call lagbe,call_messenger
+messenger e call kivabe dibo,call_messenger
+messenger call dao,call_messenger
+messenger diye kotha bolbo,call_messenger
+messenger e voice call chai,call_messenger
+fb messenger e call dao,call_messenger
+messenger e call koro,call_messenger
+messenger call dite chai,call_messenger
+messenger e phone lagbe,call_messenger
+messenger e call dimu,call_messenger
+messenger e call korte hobe,call_messenger
+messenger e call pathao,call_messenger
+wifi on koro,turn_on_wifi
+wifi ta chalu koro,turn_on_wifi
+wifi lagbe,turn_on_wifi
+wifi on korte chai,turn_on_wifi
+wifi nai chalu koro,turn_on_wifi
+wifi dao,turn_on_wifi
+wifi enable koro,turn_on_wifi
+wifi connect korte chai,turn_on_wifi
+wifi chalu nai,turn_on_wifi
+wifi on korte hobe,turn_on_wifi
+wifi lagao,turn_on_wifi
+wifi ta dao,turn_on_wifi
+internet wifi diye chai,turn_on_wifi
+wifi on nai,turn_on_wifi
+wifi ta chalu nai,turn_on_wifi
+wifi lagbe ekhon,turn_on_wifi
+wifi chalu koro please,turn_on_wifi
+wifi connection dao,turn_on_wifi
+wifi start koro,turn_on_wifi
+wifi on dao,turn_on_wifi
+app download korte chai,download_app
+notun app lagbe,download_app
+app ta name dao,download_app
+application download koro,download_app
+app install korte chai,download_app
+notun software lagbe,download_app
+app name dao,download_app
+app download dao,download_app
+app install koro,download_app
+playstore theke app lagbe,download_app
+app ta download koro,download_app
+app lagbe mobile e,download_app
+app install dao,download_app
+notun app dao,download_app
+app ta chai download,download_app
+software install korte chai,download_app
+app name koro,download_app
+playstore e giye app dao,download_app
+app lagbe ekta,download_app
+app download chai,download_app

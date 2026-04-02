@@ -1,0 +1,1189 @@
+utterance,intent,style
+টাখা দিতে chai,send_money_bkash,noisy_augmented
+wayfi connect korbo ki kore,turn_on_wifi,noisy_augmented
+wattsap e image dibo,send_photo_whatsapp,noisy_augmented
+লম্বর সেভ করবো কীভাবে,save_contact,noisy_augmented
+অ্যাপ যোগ করো,download_app,command
+টাখা send korbo kemon kore,send_money_bkash,banglish
+নতুন অ্যাপ চাই,download_app,mixed
+কল korte chai messenger,call_messenger,banglish
+ছবি কিভাবে pathai,send_photo_whatsapp,noisy
+বিকাশ recharge কেমনে hoy,recharge_mobile_bkash,noisy
+ডেটা অন করো,turn_on_mobile_data,command
+ফাইল dibo wattsap e,send_file_whatsapp,noisy_augmented
+নম্বর কোথায় আছে,find_contact,question
+messenger কল কেমনে jay,call_messenger,noisy
+ছবি send korte chai uatsap e,send_photo_whatsapp,noisy_augmented
+ফোনে নাম্বার খুঁজবো কীভাবে,find_contact,question
+টাকা পাঠাই কীভাবে,send_money_bkash,question
+ওয়াইফাই সেটিং দেখাও,turn_on_wifi,command
+sim e টাকা nai richarge koro,recharge_mobile_bkash,noisy_augmented
+টাকা pathaite hobe বিকাশ,send_money_bkash,mixed
+contect find korbo ki kore,find_contact,noisy_augmented
+naam diye nambar save,save_contact,noisy_augmented
+contect e noya নাম্বার,save_contact,noisy_augmented
+hoyatsap e ফাইল dibo,send_file_whatsapp,noisy
+messenger e kotha bolbo কেমনে,call_messenger,noisy_augmented
+messenjar video কল korbo,call_messenger,noisy_augmented
+add নাম্বার phone e,save_contact,banglish
+contact add korbo ki kore,save_contact,banglish
+ছবি কেমনে ফাটাবো,send_photo_whatsapp,noisy_augmented
+hoyatsap e ছবি দিতে chai,send_photo_whatsapp,noisy_augmented
+বিকাশ টাখা send কিরাম kori,send_money_bkash,noisy_augmented
+picture ফাটাবো,send_photo_whatsapp,noisy_augmented
+টেহা দিতে chai বিকাশ,send_money_bkash,noisy_augmented
+প্লে স্টোর থেকে অ্যাপ নামাবো,download_app,standard
+নম্বর ফোনে রাখবো,save_contact,standard
+sim e টাকা dibo বিকাশ,recharge_mobile_bkash,banglish
+facebook messenger কল,call_messenger,broken
+net nai kothay,turn_on_mobile_data,broken
+অ্যাপ instol koro,download_app,noisy_augmented
+hoyatsap e ছবি দিতে chai,send_photo_whatsapp,banglish
+contact save kori kemon kore,save_contact,noisy_augmented
+বিকাশ diye balance dibo,recharge_mobile_bkash,noisy_augmented
+waiphy কিরাম on kori,turn_on_wifi,noisy_augmented
+মেসেঞ্জার কল করো,call_messenger,command
+recharge বিকাশ টেকা,recharge_mobile_bkash,noisy
+karo lombor khuje দাও,find_contact,noisy_augmented
+lambar save কিরাম,save_contact,noisy
+ফাইল ফাটাবো hoyatsap e কেমনে,send_file_whatsapp,noisy_augmented
+instol কেমনে,download_app,noisy_augmented
+wayfi connect hocche na,turn_on_wifi,noisy_augmented
+হোয়াটসঅ্যাপ e ডকুমেন্ট কেমনে jai,send_file_whatsapp,noisy_augmented
+ছবি send korte chai হোয়াটসঅ্যাপ e,send_photo_whatsapp,noisy_augmented
+messenger ring কেমনে,call_messenger,noisy
+lombor list,find_contact,broken
+নম্বর খুঁজতে চাই,find_contact,standard
+ফাইল share কেমনে hoy,send_file_whatsapp,noisy
+পিডিএফ ta pathao হোয়াটসঅ্যাপ e,send_file_whatsapp,banglish
+টেহা দাও বিকাশ diye,send_money_bkash,noisy_augmented
+phonebook e contect khuji,find_contact,noisy_augmented
+facebook messenjar কল,call_messenger,noisy_augmented
+এই ছবি দেখাও হোয়াটসঅ্যাপে,send_photo_whatsapp,mixed
+contact list dekhai,find_contact,banglish
+noya contact banabo,save_contact,banglish
+বিকাশ payment korbo,send_money_bkash,noisy_augmented
+save contect kori ki kore,save_contact,noisy_augmented
+messanger e kotha bolte chai,call_messenger,noisy_augmented
+sim recharge বিকাশ খেমনে,recharge_mobile_bkash,noisy_augmented
+টেহা dibo bicas te,send_money_bkash,noisy_augmented
+ডাটা খেমনে dibo,turn_on_mobile_data,noisy
+play store অ্যাপ কিরাম namabo,download_app,noisy
+lambar khujte parchhi na,find_contact,noisy
+বিকাশ দিয়ে টাকা পাঠাতে চাই,send_money_bkash,standard
+নম্বর সেভ করবো কীভাবে,save_contact,standard
+numbor কেমনে dekhbo,find_contact,noisy_augmented
+wayfi কেমনে on kori,turn_on_wifi,noisy_augmented
+ফটো ta share koro,send_photo_whatsapp,banglish
+lombor add korbo,save_contact,noisy_augmented
+অ্যাপ ইনস্টল কিভাবে hobe,download_app,banglish
+dounload অ্যাপ কেমনে,download_app,noisy_augmented
+নাম্বার save niyom,save_contact,banglish
+bicas e sim recharge কেমনে,recharge_mobile_bkash,noisy_augmented
+sim e টেকা nai recharge koro,recharge_mobile_bkash,noisy_augmented
+কন্টাক্ট খুঁজে পাচ্ছি না,find_contact,standard
+bicas payment কেমনে,send_money_bkash,noisy_augmented
+phone e lombor store,save_contact,noisy_augmented
+facebook messanger কল,call_messenger,noisy_augmented
+কন্টাক্ট লিস্ট দেখাও,find_contact,command
+মেসেঞ্জারে কথা বলবো,call_messenger,standard
+বিকাশ e টেহা পাঠাবো কেমনে,send_money_bkash,noisy
+bicas theke টাখা দাও,send_money_bkash,noisy_augmented
+wayfi,turn_on_wifi,noisy_augmented
+বিকাশ money transfer,send_money_bkash,noisy_augmented
+বিকাশ diye টাখা recharge,recharge_mobile_bkash,noisy
+হোয়াটসঅ্যাপ ফাইল send কিরাম,send_file_whatsapp,noisy
+কাগজ পাঠানো দেখাও,send_file_whatsapp,command
+অ্যাপ nামাতে পারছি না,download_app,broken
+অ্যাপ dounload hochhe na,download_app,noisy_augmented
+বিকাশে রিচার্জ দিতে চাই,recharge_mobile_bkash,standard
+ফাইল খেমনে pathai,send_file_whatsapp,noisy_augmented
+karo lambar khuje দাও,find_contact,noisy_augmented
+messenger কল jacche na,call_messenger,banglish
+messenjar e কল korbo,call_messenger,noisy_augmented
+কল korbo messenger e কিভাবে,call_messenger,banglish
+numbor কিভাবে rakhi,save_contact,noisy
+ফাইল ta fatao,send_file_whatsapp,noisy_augmented
+waiphy switch on kori ki kore,turn_on_wifi,noisy_augmented
+বিকাশ e recharge ফাটাবো কেমনে,recharge_mobile_bkash,noisy_augmented
+পিডিএফ পাঠাবো wattsap e,send_file_whatsapp,noisy_augmented
+save contact kori ki kore,save_contact,banglish
+ওয়াইফাই connect hocche na,turn_on_wifi,banglish
+foto cend কেমনে hoy,send_photo_whatsapp,noisy_augmented
+ফাদামু ফাইল uatsap,send_file_whatsapp,noisy_augmented
+waiphy switch,turn_on_wifi,noisy_augmented
+অ্যাপ ডাউনলোড hocche na,download_app,banglish
+google play e অ্যাপ,download_app,banglish
+lombor list dekhao,find_contact,noisy_augmented
+messanger কল hocche na,call_messenger,noisy_augmented
+lambar save hocche na,save_contact,noisy_augmented
+contect save hochhe na,save_contact,noisy_augmented
+kotha bolbo messenger diye,call_messenger,banglish
+হোয়াটসঅ্যাপ e ফটো send korbo খেমনে,send_photo_whatsapp,noisy_augmented
+waiphy kothay,turn_on_wifi,noisy_augmented
+ছবি পাঠাও তো,send_photo_whatsapp,command
+টাকা ভরবো মোবাইলে,recharge_mobile_bkash,standard
+বিকাশ e send hobe,send_money_bkash,noisy_augmented
+lombor save niyom,save_contact,noisy_augmented
+ফাইল dibo hoyatsap e,send_file_whatsapp,noisy_augmented
+waiphy কেমনে connect hoy,turn_on_wifi,noisy_augmented
+messenger e ring dibo,call_messenger,banglish
+বিকাশ richarge কিরাম,recharge_mobile_bkash,noisy_augmented
+facebook কল korbo,call_messenger,banglish
+নম্বর কীভাবে রাখবো মনে থাকে না,save_contact,broken
+বিকাশ mobile recharge কেমনে,recharge_mobile_bkash,noisy_augmented
+অ্যাপ dounload hocche na,download_app,noisy_augmented
+বিকাশ teyha পাঠা,send_money_bkash,noisy_augmented
+mobile e টেহা dibo বিকাশ diye,recharge_mobile_bkash,noisy_augmented
+ডেটা অন দেখাও,turn_on_mobile_data,command
+kagoz dibo hoyatsap,send_file_whatsapp,noisy
+google play theke অ্যাপ,download_app,banglish
+ইন্টারনেট on koro,turn_on_mobile_data,banglish
+mobile ডাটা on korbo কিরাম,turn_on_mobile_data,noisy_augmented
+ওয়াইফাই কেমনে on kori,turn_on_wifi,noisy
+play store e jai ki kore,download_app,banglish
+ছবি ফাটাবো hoyatsap e,send_photo_whatsapp,noisy_augmented
+top up বিকাশ e,recharge_mobile_bkash,noisy_augmented
+বিকাশ টাকা send কিরাম kori,send_money_bkash,noisy
+ডেটা অফ হয়ে গেছে,turn_on_mobile_data,standard
+bicas e টেহা কেমনে pathai,send_money_bkash,noisy_augmented
+পিডিএফ পাঠাবো হোয়াটসঅ্যাপ e,send_file_whatsapp,banglish
+টাখা voro mobile e,recharge_mobile_bkash,noisy_augmented
+hoyatsap e ফাইল fatao,send_file_whatsapp,noisy
+contect khuja,find_contact,noisy_augmented
+টেহা ফাটাবো কিভাবে বিকাশ,send_money_bkash,noisy_augmented
+lombor ta kothay,find_contact,noisy
+বিকাশ payment korbo,send_money_bkash,noisy_augmented
+cend ফাইল korte hobe,send_file_whatsapp,noisy_augmented
+play store কেমনে jai,download_app,noisy_augmented
+play store e jai ki kore,download_app,banglish
+নেট নাই,turn_on_mobile_data,broken
+টাখা cend korbo kemon kore,send_money_bkash,noisy_augmented
+অ্যাপ ডাউনলোড store,download_app,broken
+mobile top up বিকাশ কিভাবে,recharge_mobile_bkash,banglish
+messanger e কল কিরাম dibo,call_messenger,noisy_augmented
+play store theke namao,download_app,banglish
+phone book khujbo ki kore,find_contact,banglish
+contect banate chai,save_contact,noisy_augmented
+messenjar e ring dibo,call_messenger,noisy_augmented
+টেহা fatao বিকাশ,send_money_bkash,noisy_augmented
+connect ওয়াইফাই korbo,turn_on_wifi,banglish
+বিকাশ mobile top up,recharge_mobile_bkash,noisy_augmented
+নতুন কিছু নামাবো,download_app,mixed
+add lombor phone e,save_contact,noisy_augmented
+ছবি fatamu কিভাবে,send_photo_whatsapp,noisy
+ওয়াইফাই turn on কেমনে,turn_on_wifi,noisy
+অ্যাপ instol korte chai,download_app,noisy_augmented
+lambar phone e rakhte hobe,save_contact,noisy
+অ্যাপ খেমনে namai,download_app,noisy_augmented
+mobile e টাখা boro বিকাশ,recharge_mobile_bkash,noisy_augmented
+অ্যাপ instol hocche na keno,download_app,noisy_augmented
+wayfi on kora dekhao,turn_on_wifi,noisy_augmented
+contact list e nai,find_contact,banglish
+অ্যাপ কোথায় পাবো,download_app,question
+হোয়াটসঅ্যাপ e foto পাঠাবো,send_photo_whatsapp,noisy_augmented
+waiphy কিরাম on kori,turn_on_wifi,noisy_augmented
+বিকাশ transfer কেমনে hoy,send_money_bkash,noisy
+net chole gese,turn_on_mobile_data,banglish
+ফাইল cend hochhe na,send_file_whatsapp,noisy_augmented
+bicas e send hobe,send_money_bkash,noisy_augmented
+বিকাশ দিয়ে মোবাইল রিচার্জ করবো,recharge_mobile_bkash,standard
+ডকুমেন্ট ফাদামু হোয়াটসঅ্যাপ te,send_file_whatsapp,noisy
+টাকা voro mobile e,recharge_mobile_bkash,banglish
+ছবি কীভাবে যাবে,send_photo_whatsapp,question
+হোয়াটসঅ্যাপ ফাইল,send_file_whatsapp,broken
+contect save korar niyom dekhao,save_contact,noisy_augmented
+contect search কেমনে,find_contact,noisy_augmented
+ওয়াইফাই on কিভাবে hobe,turn_on_wifi,banglish
+messenger e কল korbo,call_messenger,banglish
+টাখা ফাটাবো বিকাশ e,send_money_bkash,noisy_augmented
+wayfi on nai keno,turn_on_wifi,noisy_augmented
+ছবি pathaite pari na,send_photo_whatsapp,noisy_augmented
+ডাটা কেমনে on kori,turn_on_mobile_data,noisy
+contact e noya নাম্বার,save_contact,noisy
+contect list e nai,find_contact,noisy_augmented
+save button kothay,save_contact,banglish
+wayfi turn on কেমনে,turn_on_wifi,noisy_augmented
+messenjar e ring dibo,call_messenger,noisy_augmented
+বিকাশ diye টাকা dibo,send_money_bkash,noisy_augmented
+waiphy network কেমনে pabo,turn_on_wifi,noisy_augmented
+bicas e টেহা কেমনে pathai,send_money_bkash,noisy_augmented
+ওয়াইফাই diye net chalabo,turn_on_wifi,banglish
+wayfi কেমনে on hoy,turn_on_wifi,noisy
+messenjar e video কল,call_messenger,noisy
+পিডিএফ fatao হোয়াটসঅ্যাপ e,send_file_whatsapp,noisy_augmented
+কল messanger,call_messenger,noisy_augmented
+হোয়াটসঅ্যাপ e ছবি dibo কিরাম,send_photo_whatsapp,noisy_augmented
+মেসেঞ্জারে কল দেখাও,call_messenger,command
+বিকাশ diye টাখা দিতে chai,send_money_bkash,noisy_augmented
+কল যাচ্ছে না মেসেঞ্জারে,call_messenger,question
+messanger e audio কল,call_messenger,noisy_augmented
+contect কেমনে pai,find_contact,noisy_augmented
+ছবি কিরাম pathai,send_photo_whatsapp,noisy_augmented
+ওয়াইফাই বন্ধ হয়ে গেছে,turn_on_wifi,standard
+lombor khujte chai,find_contact,noisy_augmented
+waiphy cholche na,turn_on_wifi,noisy_augmented
+messenjar diye কল,call_messenger,noisy
+lambar কেমনে dekhbo,find_contact,noisy_augmented
+messenger e kotha bolbo কেমনে,call_messenger,noisy_augmented
+নাম্বার save korbo কিভাবে,save_contact,banglish
+noya নাম্বার rakha,save_contact,banglish
+ডাউনলোড hocche na keno,download_app,question
+বিকাশ richarge কিরাম,recharge_mobile_bkash,noisy_augmented
+টাকা দাও বিকাশ diye,send_money_bkash,banglish
+mobile e টাকা boro বিকাশ,recharge_mobile_bkash,broken
+ফাদামু ফাইল hoyatsap,send_file_whatsapp,noisy_augmented
+নাম্বার ta kothay gelo,find_contact,banglish
+নাম্বার ta rakhte chai,save_contact,banglish
+waiphy on switch,turn_on_wifi,noisy_augmented
+hoyatsap ফাইল,send_file_whatsapp,noisy_augmented
+অ্যাপ ডাউনলোড korte hobe,download_app,banglish
+numbor কিরাম khoji,find_contact,noisy_augmented
+ইন্টারনেট daw,turn_on_mobile_data,command
+messenger video কেমনে kori,call_messenger,noisy
+হোয়াটসঅ্যাপ e ফটো send korbo কিভাবে,send_photo_whatsapp,banglish
+টাকা transfer hobe বিকাশ e,send_money_bkash,banglish
+numbor কেমনে rakhi,save_contact,noisy_augmented
+মোবাইল ডেটা,turn_on_mobile_data,broken
+messenger diye phone dibo,call_messenger,banglish
+বিকাশ টাকা,send_money_bkash,broken
+play store কিভাবে jai,download_app,banglish
+numbor খেমনে khoji,find_contact,noisy_augmented
+contect e name,find_contact,noisy_augmented
+noya numbor rakha,save_contact,noisy_augmented
+ডাটা switch korbo,turn_on_mobile_data,banglish
+ফাইল cend hocche na,send_file_whatsapp,noisy_augmented
+এই ফটোটা পাঠাও,send_photo_whatsapp,command
+mobile e টেহা bhoro,recharge_mobile_bkash,noisy_augmented
+বিকাশ theke টেহা jabe,send_money_bkash,noisy_augmented
+ফাইল send korbo uatsap e,send_file_whatsapp,noisy_augmented
+নাম্বার khujte chai,find_contact,banglish
+ওয়াইফাই খেমনে on hobe,turn_on_wifi,noisy
+send ডকুমেন্ট হোয়াটসঅ্যাপ,send_file_whatsapp,broken
+বিকাশ diye recharge korbo,recharge_mobile_bkash,banglish
+বিকাশ e টাকা কেমনে ফাদামু,send_money_bkash,noisy_augmented
+messenjar dial কেমনে,call_messenger,noisy_augmented
+ওয়াইফাই on কিভাবে hoy,turn_on_wifi,banglish
+bicas recharge step,recharge_mobile_bkash,noisy_augmented
+messenjar কল jacche na,call_messenger,noisy_augmented
+ফাদামু ফাইল হোয়াটসঅ্যাপ,send_file_whatsapp,noisy
+ফাইল pathaite parchhi na,send_file_whatsapp,noisy
+bicas diye টাখা recharge,recharge_mobile_bkash,noisy_augmented
+facebook e কল dibo খেমনে,call_messenger,noisy_augmented
+ফাইল কেমনে attach kori,send_file_whatsapp,noisy
+বিকাশ e টেহা কেমনে pathai,send_money_bkash,noisy
+বিকাশ send money,send_money_bkash,noisy_augmented
+waiphy connection কেমনে pabo,turn_on_wifi,noisy_augmented
+অ্যাপ ডাউনলোড করবো কীভাবে,download_app,standard
+মেসেঞ্জার,call_messenger,broken
+বিকাশ reecharge step,recharge_mobile_bkash,noisy_augmented
+phone e numbor likhe rakhbo,save_contact,noisy_augmented
+বিকাশ টেকা dibo কিভাবে,send_money_bkash,noisy_augmented
+wayfi,turn_on_wifi,noisy_augmented
+বিকাশ e টেহা fatao কেমনে,send_money_bkash,noisy_augmented
+contact banabo কিভাবে,save_contact,banglish
+টাখা ফাটাবো বিকাশ e,send_money_bkash,noisy_augmented
+nambar add কিরাম,save_contact,noisy
+phone e lambar likhe rakhbo,save_contact,noisy_augmented
+ফাইল fatao কিভাবে,send_file_whatsapp,noisy
+wayfi connect korbo ki kore,turn_on_wifi,noisy_augmented
+mobile recharge বিকাশ e,recharge_mobile_bkash,banglish
+বিকাশ টেকা pathaite chai,send_money_bkash,noisy
+বিকাশ e richarge dibo কিভাবে,recharge_mobile_bkash,noisy_augmented
+lombor save niyom,save_contact,noisy_augmented
+bicas e টাখা pataite hobe,send_money_bkash,noisy_augmented
+contect search কেমনে,find_contact,noisy_augmented
+ডাটা কিরাম on hobe,turn_on_mobile_data,noisy
+ডকুমেন্ট পাঠানোর নিয়ম,send_file_whatsapp,question
+play store অ্যাপ dounload কিরাম,download_app,noisy_augmented
+বিকাশ রিচার্জ,recharge_mobile_bkash,broken
+টাকা পাঠানোর নিয়ম বিকাশে,send_money_bkash,question
+wayfi connect kori ki kore,turn_on_wifi,noisy_augmented
+ডাটা on hocche na,turn_on_mobile_data,banglish
+ওয়াইফাই kaj korche na,turn_on_wifi,banglish
+হোয়াটসঅ্যাপ e ফাইল ফাটাবো,send_file_whatsapp,noisy_augmented
+naam diye lambar save,save_contact,noisy_augmented
+contect khujte hobe,find_contact,noisy_augmented
+lambar ta kothay gelo,find_contact,noisy_augmented
+messenger কল দিতে chai,call_messenger,banglish
+টাকা দিতে chai বিকাশ,send_money_bkash,noisy_augmented
+নাম্বার rakhar niyom,save_contact,banglish
+অ্যাপ koi pabo,download_app,banglish
+কাকে ফোন করবো নম্বর নেই,find_contact,mixed
+messenger কল button kothay,call_messenger,banglish
+নেট চালু করো,turn_on_mobile_data,command
+ইনস্টল খেমনে hoy,download_app,noisy_augmented
+messenger e kotha bolte chai,call_messenger,banglish
+সেভ করো,save_contact,command
+waiphy diye net chalabo,turn_on_wifi,noisy_augmented
+ওয়াইফাই কিরাম on kori,turn_on_wifi,noisy
+টেহা diye recharge hobe ki,recharge_mobile_bkash,noisy
+টেহা transfer বিকাশ,send_money_bkash,noisy_augmented
+ইন্টারনেট nai কিরাম chalabo,turn_on_mobile_data,noisy_augmented
+messenjar কল কিরাম debo,call_messenger,noisy
+বিকাশ recharge step,recharge_mobile_bkash,banglish
+lambar save korbo কিভাবে,save_contact,noisy_augmented
+বিকাশ e টাখা bharbo,recharge_mobile_bkash,noisy
+ওয়াইফাই band,turn_on_wifi,broken
+video কল messanger,call_messenger,noisy_augmented
+contact search কেমনে,find_contact,noisy
+নতুন অ্যাপ নামাতে চাই,download_app,standard
+wayfi setting dekhao,turn_on_wifi,noisy_augmented
+bicas recharge niyom,recharge_mobile_bkash,noisy_augmented
+ফাইল send hocche na,send_file_whatsapp,banglish
+এই ছবি পাঠাবো কীভাবে,send_photo_whatsapp,question
+bicas theke recharge hoy ki,recharge_mobile_bkash,noisy_augmented
+hoyatsap foto,send_photo_whatsapp,broken
+রিচার্জ নিয়ম বিকাশ,recharge_mobile_bkash,question
+পিডিএফ ta pathao wattsap e,send_file_whatsapp,noisy_augmented
+টেকা e বিকাশ,send_money_bkash,noisy_augmented
+ফাইল ta gelo na,send_file_whatsapp,broken
+richarge korte parchhi na,recharge_mobile_bkash,noisy_augmented
+ছবি fatao কেমনে,send_photo_whatsapp,noisy_augmented
+wayfi kaj korche na,turn_on_wifi,noisy_augmented
+অ্যাপ ডাউনলোড korbo খেমনে,download_app,noisy_augmented
+বিকাশ e টাখা bharbo,recharge_mobile_bkash,noisy_augmented
+ছবি fatamu কিরাম,send_photo_whatsapp,noisy_augmented
+messanger কল কেমনে kori,call_messenger,noisy_augmented
+ডকুমেন্ট কেমনে fatao,send_file_whatsapp,noisy_augmented
+মেসেঞ্জারে ফোন দিতে চাই,call_messenger,standard
+upload ফাইল wattsap,send_file_whatsapp,noisy_augmented
+recharge bicas টেকা,recharge_mobile_bkash,noisy_augmented
+কন্টাক্ট সেভ করতে চাই,save_contact,standard
+রিচার্জ হচ্ছে না কেন,recharge_mobile_bkash,question
+টেহা দাও বিকাশ diye,send_money_bkash,noisy_augmented
+messanger video কল korbo,call_messenger,noisy_augmented
+টাকা e jabe কেমনে,send_money_bkash,noisy
+contect e name,find_contact,noisy_augmented
+messenjar audio কল কেমনে,call_messenger,noisy_augmented
+mobile top up বিকাশ কেমনে,recharge_mobile_bkash,noisy_augmented
+nambar ta kothay thake,find_contact,noisy_augmented
+naam diye numbor khoji,find_contact,noisy_augmented
+contact কেমনে pai,find_contact,noisy
+mobile balance nai বিকাশ diye দাও,recharge_mobile_bkash,mixed
+recharge বিকাশ কিভাবে,recharge_mobile_bkash,banglish
+numbor কিভাবে khoji,find_contact,noisy
+mobile e টেহা dibo bicas diye,recharge_mobile_bkash,noisy_augmented
+কন্টাক্ট,find_contact,broken
+contact khujbo খেমনে,find_contact,noisy_augmented
+wayfi chalate chai,turn_on_wifi,noisy_augmented
+বিকাশ recharge niyom,recharge_mobile_bkash,banglish
+lambar খেমনে dekhbo,find_contact,noisy_augmented
+ছবি কেমনে পাঠাবো,send_photo_whatsapp,noisy
+টেহা fatamu বিকাশ diye,send_money_bkash,noisy
+টেহা diye richarge hobe,recharge_mobile_bkash,noisy_augmented
+send money বিকাশ কিভাবে,send_money_bkash,banglish
+foto cend কেমনে hoy,send_photo_whatsapp,noisy_augmented
+phonebook search কেমনে,find_contact,noisy
+image ta fatao,send_photo_whatsapp,noisy_augmented
+ওয়াইফাই কীভাবে ধরে,turn_on_wifi,question
+অ্যাপ instol কিরাম,download_app,noisy_augmented
+ওয়াইফাই connect korbo ki kore,turn_on_wifi,banglish
+বিকাশ mobile টেহা,recharge_mobile_bkash,noisy_augmented
+ইন্টারনেট band,turn_on_mobile_data,broken
+waiphy খেমনে on hobe,turn_on_wifi,noisy_augmented
+বিকাশ diye balance dibo,recharge_mobile_bkash,banglish
+ফাইল,send_file_whatsapp,broken
+lambar কিভাবে dekhbo,find_contact,noisy
+বিকাশ টেকা পাঠা,send_money_bkash,noisy_augmented
+mobile recharge বিকাশ e,recharge_mobile_bkash,noisy_augmented
+ফাইল share কেমনে hoy,send_file_whatsapp,noisy_augmented
+ওয়াইফাই band hoye gese,turn_on_wifi,banglish
+অ্যাপ namano dekhao,download_app,banglish
+wayfi connect kori ki kore,turn_on_wifi,noisy_augmented
+lambar khujte pari na,find_contact,noisy_augmented
+ওয়াইফাই kothay,turn_on_wifi,broken
+wayfi diye net chalabo,turn_on_wifi,noisy_augmented
+ছবি cend করবো,send_photo_whatsapp,noisy_augmented
+sim ডাটা কিরাম on,turn_on_mobile_data,noisy
+ফাইল কিভাবে pathai,send_file_whatsapp,banglish
+ওয়াইফাই কাজ করছে না,turn_on_wifi,question
+search contact খেমনে,find_contact,noisy_augmented
+কল korte chai messanger,call_messenger,noisy_augmented
+mobile ডাটা chalate parchhi na,turn_on_mobile_data,banglish
+messenjar theke কল,call_messenger,noisy_augmented
+ইন্টারনেট nai কিভাবে chalabo,turn_on_mobile_data,question
+কল korbo messenger খেমনে,call_messenger,noisy_augmented
+karo নাম্বার khuje দাও,find_contact,banglish
+ছবি কেমনে ফাদামু,send_photo_whatsapp,noisy_augmented
+হোয়াটসঅ্যাপ e ছবি dibo কিভাবে,send_photo_whatsapp,noisy
+messenger theke কল,call_messenger,banglish
+naam diye lombor khoji,find_contact,noisy_augmented
+ছবি গেলো না কেন,send_photo_whatsapp,question
+ডকুমেন্ট পাঠামু হোয়াটসঅ্যাপ diye,send_file_whatsapp,noisy_augmented
+ডাটা activate korbo,turn_on_mobile_data,banglish
+waiphy on কিভাবে hoy,turn_on_wifi,noisy_augmented
+বিকাশ টাখা কিরাম jay,send_money_bkash,noisy_augmented
+ছবি দিতে chai hoyatsap e,send_photo_whatsapp,noisy
+contect save hochhe na,save_contact,noisy_augmented
+ডাটা switch on korbo,turn_on_mobile_data,banglish
+ফটো পাঠাবো uatsap,send_photo_whatsapp,noisy_augmented
+numbor search কিরাম,find_contact,noisy_augmented
+ওয়াইফাই on korbo কিরাম,turn_on_wifi,noisy_augmented
+kontact add korbo ki kore,save_contact,noisy_augmented
+wayfi on korte parchhi na,turn_on_wifi,noisy_augmented
+ফাইল পাঠাও,send_file_whatsapp,command
+lombor khujte chai,find_contact,noisy_augmented
+numbor কিরাম store kori,save_contact,noisy_augmented
+বিকাশ e টাকা পাঠাবো,send_money_bkash,banglish
+mobile net on koro,turn_on_mobile_data,banglish
+ছবি কিরাম send hoy,send_photo_whatsapp,noisy_augmented
+messenger e audio কল,call_messenger,banglish
+হোয়াটসঅ্যাপে ছবি পাঠাবো কীভাবে,send_photo_whatsapp,standard
+ওয়াইফাই কিরাম chalabo,turn_on_wifi,noisy
+ছবি ফাটাবো wattsap diye,send_photo_whatsapp,noisy_augmented
+noya অ্যাপ chai,download_app,banglish
+বিকাশ টাকা কিরাম jay,send_money_bkash,noisy_augmented
+waiphy on,turn_on_wifi,noisy_augmented
+picture ফাদামু,send_photo_whatsapp,noisy_augmented
+বিকাশ e টাকা ফাদামু,send_money_bkash,noisy_augmented
+ডকুমেন্ট কেমনে পাঠামু,send_file_whatsapp,noisy_augmented
+new নাম্বার save korte chai,save_contact,banglish
+sim recharge bicas কিভাবে,recharge_mobile_bkash,noisy_augmented
+messenjar dial কেমনে,call_messenger,noisy_augmented
+অ্যাপ ডাউনলোড hochhe na,download_app,banglish
+waiphy খেমনে on hobe,turn_on_wifi,noisy_augmented
+numbor কিরাম dekhbo,find_contact,noisy_augmented
+search contect কিভাবে,find_contact,noisy_augmented
+ফাইল fatao কিরাম,send_file_whatsapp,noisy_augmented
+kotha bolbo messenjar diye,call_messenger,noisy_augmented
+numbor ta kothay gelo,find_contact,noisy_augmented
+অ্যাপ ইনস্টল hocche na keno,download_app,question
+বিকাশ e টাকা কেমনে পাঠাবো,send_money_bkash,noisy
+ওয়াইফাই সংযোগ করো,turn_on_wifi,command
+ফাইল ফাটাবো হোয়াটসঅ্যাপ e কেমনে,send_file_whatsapp,noisy
+ছবি upload করবো,send_photo_whatsapp,mixed
+রিচার্জ দেখাও বিকাশে,recharge_mobile_bkash,command
+বিকাশ theke টাখা দাও,send_money_bkash,noisy
+ফাইল ta দাও,send_file_whatsapp,command
+fb কল,call_messenger,broken
+অ্যাপ কিভাবে namai,download_app,noisy
+টাখা diye top up,recharge_mobile_bkash,noisy
+phone e lombor likhe rakhbo,save_contact,noisy_augmented
+ইন্টারনেট কিরাম chalabo,turn_on_mobile_data,noisy_augmented
+messenger dial কেমনে,call_messenger,noisy
+ওয়াইফাই network কেমনে pabo,turn_on_wifi,noisy
+সেভ হচ্ছে না কেন,save_contact,question
+sim net,turn_on_mobile_data,broken
+numbor phone e rakho,save_contact,noisy_augmented
+hoyatsap ফাইল কেমনে jai,send_file_whatsapp,noisy_augmented
+হোয়াটসঅ্যাপ e image dibo,send_photo_whatsapp,banglish
+বিকাশ diye টাখা দিতে chai,send_money_bkash,noisy
+সবি upload করবো,send_photo_whatsapp,noisy_augmented
+ইনস্টল অ্যাপ কেমনে hobe,download_app,noisy_augmented
+richarge কেমনে dibo,recharge_mobile_bkash,noisy_augmented
+bicas recharge step,recharge_mobile_bkash,noisy_augmented
+hoyatsap ফটো দিতে hobe,send_photo_whatsapp,noisy
+nambar add কেমনে hoy,save_contact,noisy
+nambar save kora,save_contact,broken
+bicas theke টাখা দাও,send_money_bkash,noisy_augmented
+কল korbo messenger কেমনে,call_messenger,noisy_augmented
+ছবি কিভাবে jai hoyatsap e,send_photo_whatsapp,noisy
+messanger কল কেমনে jay,call_messenger,noisy_augmented
+অ্যাপ dounload korte hobe,download_app,noisy_augmented
+অ্যাপ ইনস্টল খেমনে hobe,download_app,noisy_augmented
+ছবি ফাটাবো হোয়াটসঅ্যাপ diye,send_photo_whatsapp,noisy
+send ডকুমেন্ট wattsap,send_file_whatsapp,noisy_augmented
+বিকাশ e sim richarge কেমনে,recharge_mobile_bkash,noisy_augmented
+waiphy on korbo কিভাবে,turn_on_wifi,noisy_augmented
+foto cend কেমনে,send_photo_whatsapp,noisy_augmented
+wayfi on nai keno,turn_on_wifi,noisy_augmented
+টাখা diye recharge কিরাম kori,recharge_mobile_bkash,noisy
+টেহা dibo বিকাশ te,send_money_bkash,noisy
+বিকাশ recharge korte chai,recharge_mobile_bkash,banglish
+হোয়াটসঅ্যাপ e kagoz fatao,send_file_whatsapp,noisy_augmented
+facebook diye কল,call_messenger,banglish
+wattsap ছবি,send_photo_whatsapp,noisy_augmented
+waiphy diye ইন্টারনেট chalabo,turn_on_wifi,noisy_augmented
+ডকুমেন্ট ta cend koro,send_file_whatsapp,noisy_augmented
+ডাটা খেমনে on kori,turn_on_mobile_data,noisy
+bicas recharge কিরাম,recharge_mobile_bkash,noisy_augmented
+টাকা দেবো কীভাবে বিকাশে,send_money_bkash,question
+টাকা দিতে chai,send_money_bkash,banglish
+picture পাঠাবো,send_photo_whatsapp,banglish
+হোয়াটসঅ্যাপ e ছবি পাঠামু,send_photo_whatsapp,noisy_augmented
+ডকুমেন্ট ta send koro,send_file_whatsapp,command
+বিকাশ e richarge ফাটাবো কেমনে,recharge_mobile_bkash,noisy_augmented
+net on কেমনে kori,turn_on_mobile_data,noisy
+ছবিটা পাঠিয়ে দাও,send_photo_whatsapp,command
+messanger dial korbo,call_messenger,noisy_augmented
+messanger e audio কল,call_messenger,noisy_augmented
+bicas টেকা pathaite chai,send_money_bkash,noisy_augmented
+টেহা diye richarge hobe,recharge_mobile_bkash,noisy_augmented
+নেট চালু করার নিয়ম,turn_on_mobile_data,question
+uatsap ফাইল,send_file_whatsapp,noisy_augmented
+অ্যাপ dounload কেমনে hoy,download_app,noisy_augmented
+nambar khujar niyom,find_contact,noisy
+image ta pathao,send_photo_whatsapp,banglish
+contact e add কেমনে,save_contact,noisy
+sim richarge hobe কেমনে,recharge_mobile_bkash,noisy_augmented
+waiphy on koro,turn_on_wifi,noisy_augmented
+টেহা fatamu bicas diye,send_money_bkash,noisy_augmented
+মেসেঞ্জারে ভিডিও কল চাই,call_messenger,standard
+hoyatsap e kagoz পাঠাবো,send_file_whatsapp,noisy_augmented
+হোয়াটসঅ্যাপ e kagoz পাঠাবো,send_file_whatsapp,banglish
+ছবি কিভাবে send hoy,send_photo_whatsapp,noisy
+waiphy setting kothay,turn_on_wifi,noisy_augmented
+বিকাশ theke recharge কিরাম,recharge_mobile_bkash,noisy
+ডকুমেন্ট ফাদামু wattsap te,send_file_whatsapp,noisy_augmented
+অ্যাপ ta ইনস্টল koro,download_app,command
+messenjar e কল korbo,call_messenger,noisy_augmented
+send money বিকাশ কেমনে,send_money_bkash,noisy_augmented
+বিকাশ diye টাখা richarge,recharge_mobile_bkash,noisy_augmented
+কল korte chai messenjar,call_messenger,noisy_augmented
+ছবি cend করবো,send_photo_whatsapp,noisy_augmented
+wayfi switch on kori ki kore,turn_on_wifi,noisy_augmented
+richarge nai sim e,recharge_mobile_bkash,noisy_augmented
+nambar add korbo,save_contact,noisy_augmented
+contect find korbo ki kore,find_contact,noisy_augmented
+ওয়াইফাই নেই কেন,turn_on_wifi,question
+messanger কল jacche na,call_messenger,noisy_augmented
+ছবি দেখাতে চাই হোয়াটসঅ্যাপে,send_photo_whatsapp,standard
+dounload অ্যাপ কেমনে,download_app,noisy_augmented
+save contect kori ki kore,save_contact,noisy_augmented
+upload ফাইল wattsap,send_file_whatsapp,noisy_augmented
+contect কেমনে pai,find_contact,noisy_augmented
+phone e nambar store,save_contact,noisy_augmented
+ছবি কীভাবে শেয়ার করে হোয়াটসঅ্যাপে,send_photo_whatsapp,question
+ছবি send korte chai হোয়াটসঅ্যাপ e,send_photo_whatsapp,banglish
+টেহা ফাটাবো কিভাবে বিকাশ,send_money_bkash,noisy
+টাখা cend korbo kemon kore,send_money_bkash,noisy_augmented
+হোয়াটসঅ্যাপ e ফটো send korbo kemba,send_photo_whatsapp,noisy_augmented
+waiphy on kora dekhao,turn_on_wifi,noisy_augmented
+বিকাশ theke টেহা jabe,send_money_bkash,noisy_augmented
+messanger e কল কিরাম dibo,call_messenger,noisy_augmented
+wayfi hochhe na,turn_on_wifi,noisy_augmented
+ডকুমেন্ট ta cend koro,send_file_whatsapp,noisy_augmented
+messenger dial korbo,call_messenger,banglish
+nambar rakhar niyom,save_contact,noisy_augmented
+mobile ডাটা কিরাম activate kori,turn_on_mobile_data,noisy
+বিকাশ mobile recharge কেমনে,recharge_mobile_bkash,noisy_augmented
+new lombor save korte chai,save_contact,noisy_augmented
+mobile e টাকা boro bicas,recharge_mobile_bkash,noisy_augmented
+ছবিটা পাঠাও হোয়াটসঅ্যাপে,send_photo_whatsapp,command
+sim richarge hobe কেমনে,recharge_mobile_bkash,noisy_augmented
+money pathaite chai bicas,send_money_bkash,noisy_augmented
+ফটো পাঠামু হোয়াটসঅ্যাপ,send_photo_whatsapp,noisy_augmented
+messenger কল hocche na,call_messenger,banglish
+ওয়াইফাই on kora dekhao,turn_on_wifi,banglish
+নাম্বার search কিরাম,find_contact,noisy
+ফটো ফাটাবো হোয়াটসঅ্যাপ,send_photo_whatsapp,noisy_augmented
+sim e net nai,turn_on_mobile_data,banglish
+richarge korte parchhi na,recharge_mobile_bkash,noisy_augmented
+richarge korte parchhi na,recharge_mobile_bkash,noisy_augmented
+নাম দিয়ে লম্বর খুঁজবো,find_contact,noisy_augmented
+sim recharge hobe কেমনে,recharge_mobile_bkash,noisy
+messenger e kotha bolbo কিভাবে,call_messenger,banglish
+ইনস্টল অ্যাপ কিরাম hobe,download_app,noisy_augmented
+messenjar কেমনে কল kori,call_messenger,noisy_augmented
+mobile ডাটা setting,turn_on_mobile_data,broken
+বিকাশ mobile recharge কেমনে,recharge_mobile_bkash,noisy
+ডকুমেন্ট পাঠাবো হোয়াটসঅ্যাপ diye,send_file_whatsapp,banglish
+ফাইল send hochhe na,send_file_whatsapp,banglish
+foto fatao uatsap te,send_photo_whatsapp,noisy_augmented
+ফোনবুক দেখাও,find_contact,command
+recharge বিকাশ,recharge_mobile_bkash,noisy_augmented
+হোয়াটসঅ্যাপ e ছবি dibo কেমনে,send_photo_whatsapp,noisy_augmented
+cend ফাইল korte hobe,send_file_whatsapp,noisy_augmented
+অ্যাপ নামাও,download_app,command
+টেহা pathaite hobe বিকাশ,send_money_bkash,noisy_augmented
+phone e নাম্বার likhe rakhbo,save_contact,mixed
+uatsap e ফাইল পাঠাবো,send_file_whatsapp,noisy_augmented
+ডেটা কানেকশন চালু করো,turn_on_mobile_data,command
+richarge nai sim e,recharge_mobile_bkash,noisy_augmented
+ডকুমেন্ট ta diye দাও,send_file_whatsapp,banglish
+বিকাশ theke টাকা jabe,send_money_bkash,banglish
+waiphy on,turn_on_wifi,noisy_augmented
+বিকাশ থেকে টাকা দাও,send_money_bkash,command
+upload ফাইল wattsap,send_file_whatsapp,noisy_augmented
+ফাইল কেমনে pathai,send_file_whatsapp,noisy_augmented
+ছবি ফাটাবো hoyatsap diye,send_photo_whatsapp,noisy_augmented
+messenjar কল কিভাবে,call_messenger,noisy
+kotha bolbo messanger diye,call_messenger,noisy_augmented
+ইনস্টল কিভাবে hoy,download_app,noisy
+টাকা ট্রান্সফার করবো,send_money_bkash,mixed
+টাকা শেষ রিচার্জ দিতে হবে,recharge_mobile_bkash,mixed
+ইনস্টল অ্যাপ কিভাবে hobe,download_app,banglish
+ডাটা chalu koro,turn_on_mobile_data,mixed
+হোয়াটসঅ্যাপে ফাইল পাঠাবো কীভাবে,send_file_whatsapp,standard
+ওয়াইফাই চালু,turn_on_wifi,broken
+wayfi switch,turn_on_wifi,noisy_augmented
+bicas টাকা কিভাবে,send_money_bkash,noisy_augmented
+dounload hocche na keno,download_app,noisy_augmented
+recharge korte parchhi na,recharge_mobile_bkash,banglish
+ডাউনলোড অ্যাপ কেমনে,download_app,noisy
+waiphy turn on কেমনে,turn_on_wifi,noisy_augmented
+waiphy খেমনে connect hobe,turn_on_wifi,noisy_augmented
+uatsap e image dibo,send_photo_whatsapp,noisy_augmented
+নাম্বার add korbo,save_contact,banglish
+numbor search কিরাম,find_contact,noisy_augmented
+hoyatsap ছবি,send_photo_whatsapp,noisy_augmented
+ইন্টারনেট nai kemon kore chalabo,turn_on_mobile_data,noisy_augmented
+অ্যাপ কেমনে instol kori,download_app,noisy_augmented
+টেহা voro mobile e,recharge_mobile_bkash,noisy_augmented
+contact e name,find_contact,broken
+টেহা e jabe কেমনে,send_money_bkash,noisy_augmented
+contact list e add kori ki kore,save_contact,banglish
+ডাটা on hochhe na,turn_on_mobile_data,banglish
+messenjar theke কল,call_messenger,noisy_augmented
+বিকাশ diye টাকা dibo,send_money_bkash,banglish
+নম্বর যোগ করো,save_contact,command
+foto send কেমনে hoy,send_photo_whatsapp,noisy
+money pathaite chai বিকাশ,send_money_bkash,noisy_augmented
+টেহা pathate parchhi na বিকাশ e,send_money_bkash,noisy_augmented
+uatsap ফাইল send কিরাম,send_file_whatsapp,noisy_augmented
+contact banate chai,save_contact,banglish
+ফাইল শেয়ার করবো হোয়াটসঅ্যাপে,send_file_whatsapp,standard
+bicas recharge niyom,recharge_mobile_bkash,noisy_augmented
+অ্যাপ,download_app,broken
+sim top up কেমনে,recharge_mobile_bkash,noisy
+ছবি কিরাম jai hoyatsap e,send_photo_whatsapp,noisy_augmented
+ইনস্টল কেমনে,download_app,noisy
+মোবাইলে টাকা দিতে চাই বিকাশ দিয়ে,recharge_mobile_bkash,standard
+নাম্বার পাচ্ছি না,find_contact,broken
+money fataite chai বিকাশ,send_money_bkash,noisy_augmented
+messanger কল দিতে chai,call_messenger,noisy_augmented
+uatsap ডকুমেন্ট fatao,send_file_whatsapp,noisy_augmented
+lambar rakhte chai,save_contact,noisy
+বিকাশ send money,send_money_bkash,broken
+messenjar খেমনে কল kori,call_messenger,noisy_augmented
+অ্যাপ ডাউনলোড কেমনে hoy,download_app,noisy
+payment বিকাশ,send_money_bkash,noisy_augmented
+search contact কিভাবে,find_contact,banglish
+mobile richarge বিকাশ e,recharge_mobile_bkash,noisy_augmented
+রিচার্জ করো,recharge_mobile_bkash,command
+ডকুমেন্ট share korbo,send_file_whatsapp,banglish
+বিকাশ e টাখা pataite hobe,send_money_bkash,noisy
+ইন্টারনেট চালু করো,turn_on_mobile_data,command
+numbor কিভাবে dekhbo,find_contact,noisy
+বিকাশ money transfer,send_money_bkash,broken
+mobile e টাকা bhoro,recharge_mobile_bkash,banglish
+ফাইল dibo হোয়াটসঅ্যাপ e,send_file_whatsapp,banglish
+ওয়াইফাই অন দেখাও,turn_on_wifi,command
+হোয়াটসঅ্যাপ e ছবি পাঠাবো,send_photo_whatsapp,banglish
+কল korbo messanger e কিভাবে,call_messenger,noisy_augmented
+হোয়াটসঅ্যাপ ছবি,send_photo_whatsapp,broken
+বিকাশ টেকা dibo কেমনে,send_money_bkash,noisy_augmented
+lambar khojbo,find_contact,noisy
+নাম্বার save korbo kemba,save_contact,noisy_augmented
+contect e lombor nai,find_contact,noisy_augmented
+numbor কেমনে rakhi,save_contact,noisy_augmented
+waiphy chalate parchhi na,turn_on_wifi,noisy_augmented
+ইন্টারনেট connection nai,turn_on_mobile_data,broken
+ফাইল পাঠানো যাচ্ছে না,send_file_whatsapp,standard
+ফাইল share কেমনে hoy,send_file_whatsapp,noisy_augmented
+কল korbo messanger e কিভাবে,call_messenger,noisy_augmented
+ডকুমেন্ট ফাদামু uatsap te,send_file_whatsapp,noisy_augmented
+হোয়াটসঅ্যাপে কাগজ পাঠাবো,send_file_whatsapp,mixed
+contact save kori খেমনে,save_contact,noisy_augmented
+টাখা e jabe কেমনে,send_money_bkash,noisy_augmented
+lambar add korbo,save_contact,noisy_augmented
+কল dibo messanger,call_messenger,noisy_augmented
+nambar save niyom,save_contact,noisy_augmented
+contect add korbo ki kore,save_contact,noisy_augmented
+nambar ta kothay thake,find_contact,noisy_augmented
+wayfi cholche na,turn_on_wifi,noisy_augmented
+অ্যাপ ডাউনলোড দেখাও,download_app,command
+ছবি পাঠানোর নিয়ম কী,send_photo_whatsapp,question
+contact save kori কিভাবে,save_contact,banglish
+wayfi on কিভাবে hobe,turn_on_wifi,noisy_augmented
+ডকুমেন্ট fatao হোয়াটসঅ্যাপ diye,send_file_whatsapp,noisy_augmented
+ফাইল ta pathao,send_file_whatsapp,banglish
+mobile ডাটা on korbo কিভাবে,turn_on_mobile_data,banglish
+recharge bicas,recharge_mobile_bkash,noisy_augmented
+messanger কল button kothay,call_messenger,noisy_augmented
+play store কেমনে jai,download_app,noisy
+hoyatsap ফাইল কেমনে jai,send_file_whatsapp,noisy_augmented
+বিকাশ theke reecharge কিরাম,recharge_mobile_bkash,noisy_augmented
+ওয়াইফাই setting kothay,turn_on_wifi,banglish
+mobile e টেহা dibo বিকাশ diye,recharge_mobile_bkash,noisy
+contect khuja,find_contact,noisy_augmented
+ছবি share করবো কীভাবে,send_photo_whatsapp,mixed
+অ্যাপ kemba namai,download_app,noisy_augmented
+phone e নাম্বার store,save_contact,broken
+ছবি দেওয়া যাচ্ছে না,send_photo_whatsapp,broken
+ফাইল fatao কেমনে hoy,send_file_whatsapp,noisy
+sim e টাকা nai recharge koro,recharge_mobile_bkash,banglish
+send korbo বিকাশ,send_money_bkash,banglish
+ডকুমেন্ট cend kori ki kore,send_file_whatsapp,noisy_augmented
+অ্যাপ কেমনে ইনস্টল kori,download_app,noisy
+বিকাশ টেহা পাঠা,send_money_bkash,noisy_augmented
+contect save korar niyom dekhao,save_contact,noisy_augmented
+waiphy কিরাম chalabo,turn_on_wifi,noisy_augmented
+বিকাশে টাকা পাঠানো হয় কীভাবে,send_money_bkash,question
+messenger e kotha bolbo খেমনে,call_messenger,noisy_augmented
+ফাইল cend hochhe na,send_file_whatsapp,noisy_augmented
+wayfi কেমনে on kori,turn_on_wifi,noisy_augmented
+বিকাশ e recharge dibo কিভাবে,recharge_mobile_bkash,banglish
+lombor list dekhao,find_contact,noisy_augmented
+messenger কল কেমনে kori,call_messenger,noisy
+send korbo bicas,send_money_bkash,noisy_augmented
+ওয়াইফাই hochhe na,turn_on_wifi,banglish
+টাকা pathaite hobe বিকাশ,send_money_bkash,noisy_augmented
+numbor কিরাম rakhi,save_contact,noisy_augmented
+messanger কল কেমনে kori,call_messenger,noisy_augmented
+bicas টেকা pathaite chai,send_money_bkash,noisy_augmented
+অ্যাপ instol hocche na keno,download_app,noisy_augmented
+টাকা transfer hobe বিকাশ e,send_money_bkash,noisy_augmented
+wayfi on কেমনে,turn_on_wifi,noisy
+বিকাশ diye net richarge,recharge_mobile_bkash,noisy_augmented
+ওয়াইফাই on switch,turn_on_wifi,broken
+হোয়াটসঅ্যাপ e ফাইল পাঠাবো,send_file_whatsapp,banglish
+ফটো পাঠাবো হোয়াটসঅ্যাপ,send_photo_whatsapp,banglish
+এই ছবিটা হোয়াটসঅ্যাপে দিতে চাই,send_photo_whatsapp,standard
+nambar save কিরাম hoy,save_contact,noisy
+messanger audio কল কেমনে,call_messenger,noisy_augmented
+ফাইল কিরাম dibo,send_file_whatsapp,noisy
+new lambar save korte chai,save_contact,noisy_augmented
+ছবি পাঠাবো কেমনে,send_photo_whatsapp,noisy
+foto fatao হোয়াটসঅ্যাপ te,send_photo_whatsapp,noisy
+টাকা jabe বিকাশ diye,send_money_bkash,banglish
+হোয়াটসঅ্যাপ ফাইল cend কিরাম,send_file_whatsapp,noisy_augmented
+বিকাশ e teyha পাঠাবো,send_money_bkash,noisy_augmented
+অ্যাপ instol koro,download_app,noisy_augmented
+search contact খেমনে,find_contact,noisy_augmented
+cend korbo বিকাশ,send_money_bkash,noisy_augmented
+lombor save কেমনে kori,save_contact,noisy
+কল messenjar,call_messenger,noisy_augmented
+numbor khujte chai,find_contact,noisy_augmented
+অ্যাপ dounload store,download_app,noisy_augmented
+অ্যাপ dounload hocche na,download_app,noisy_augmented
+video কল messenjar,call_messenger,noisy_augmented
+wayfi কিরাম chalabo,turn_on_wifi,noisy_augmented
+add lambar phone e,save_contact,noisy_augmented
+contect add korbo ki kore,save_contact,noisy_augmented
+bicas diye টাখা দিতে chai,send_money_bkash,noisy_augmented
+টেহা diye richarge hobe ki,recharge_mobile_bkash,noisy_augmented
+হোয়াটসঅ্যাপে ফটো পাঠানো দেখাও,send_photo_whatsapp,command
+net cholao,turn_on_mobile_data,command
+অ্যাপ dounload hochhe na,download_app,noisy_augmented
+ওয়াইফাই on কিরাম hoy,turn_on_wifi,noisy_augmented
+bicas transfer কেমনে hoy,send_money_bkash,noisy_augmented
+wayfi setting dekhao,turn_on_wifi,noisy_augmented
+অ্যাপ কেমনে instol kori,download_app,noisy_augmented
+ওয়াইফাই অন করো,turn_on_wifi,command
+ওয়াইফাই অন করতে চাই,turn_on_wifi,standard
+ছবি send korte chai uatsap e,send_photo_whatsapp,noisy_augmented
+ওয়াইফাই on খেমনে hobe,turn_on_wifi,noisy_augmented
+contect e lombor nai,find_contact,noisy_augmented
+অ্যাপ কিরাম dhorbo,download_app,noisy
+ছবি fatamu কেমনে,send_photo_whatsapp,noisy_augmented
+contact save korar niyom dekhao,save_contact,banglish
+wayfi on korte parchhi na,turn_on_wifi,noisy_augmented
+numbor save কেমনে jay,save_contact,noisy
+ওয়াইফাই switch,turn_on_wifi,broken
+ফাইল send korbo হোয়াটসঅ্যাপ e,send_file_whatsapp,banglish
+টেহা diye richarge hobe ki,recharge_mobile_bkash,noisy_augmented
+ইন্টারনেট কিভাবে chalabo,turn_on_mobile_data,question
+বিকাশে টাকা পাঠাবো কীভাবে,send_money_bkash,standard
+play store কিরাম jai,download_app,noisy_augmented
+টাকা pathate parchhi na বিকাশ e,send_money_bkash,banglish
+richarge কেমনে dibo,recharge_mobile_bkash,noisy_augmented
+lombor khujte pari na,find_contact,noisy_augmented
+phone e karo lombor khoji,find_contact,noisy_augmented
+ফাইল attachment কেমনে,send_file_whatsapp,noisy
+ওয়াইফাই খেমনে connect hobe,turn_on_wifi,noisy
+ওয়াইফাই connect kori ki kore,turn_on_wifi,banglish
+টাকা sesh richarge দাও,recharge_mobile_bkash,noisy_augmented
+হোয়াটসঅ্যাপ e foto পাঠাবো,send_photo_whatsapp,noisy_augmented
+ওয়াইফাই নেটওয়ার্ক,turn_on_wifi,broken
+ছবি ফাটাবো hoyatsap e,send_photo_whatsapp,noisy_augmented
+lombor kothay rakhi,save_contact,noisy
+money pathaite chai বিকাশ,send_money_bkash,noisy
+foto cend কেমনে,send_photo_whatsapp,noisy_augmented
+video কল messenger,call_messenger,broken
+messenjar ring কেমনে,call_messenger,noisy_augmented
+বিকাশ diye recharge korbo,recharge_mobile_bkash,noisy_augmented
+বিকাশ টাকা কিরাম jay,send_money_bkash,noisy
+বিকাশ recharge কেমনে hoy,recharge_mobile_bkash,noisy_augmented
+send ডকুমেন্ট wattsap,send_file_whatsapp,noisy_augmented
+টেহা fatamu bicas diye,send_money_bkash,noisy_augmented
+নেট কেন কাজ করছে না,turn_on_mobile_data,question
+কল করো,call_messenger,command
+ছবি পাঠাতে পারছি না,send_photo_whatsapp,broken
+বিকাশ টেহা কিভাবে,send_money_bkash,noisy_augmented
+ইন্টারনেট nai কিরাম chalabo,turn_on_mobile_data,noisy_augmented
+ছবি কিরাম pathai,send_photo_whatsapp,noisy_augmented
+নাম্বার save hocche na,save_contact,banglish
+bicas recharge korte chai,recharge_mobile_bkash,noisy_augmented
+foto কিভাবে jai hoyatsap e,send_photo_whatsapp,noisy_augmented
+wayfi কেমনে connect hoy,turn_on_wifi,noisy_augmented
+ওয়াইফাই,turn_on_wifi,broken
+messenjar কল button kothay,call_messenger,noisy_augmented
+contact e noya numbor,save_contact,noisy_augmented
+অ্যাপ instol কিরাম,download_app,noisy_augmented
+waiphy on korbo কিভাবে,turn_on_wifi,noisy_augmented
+contect list dekhai,find_contact,noisy_augmented
+lombor ta rakhte chai,save_contact,noisy_augmented
+নাম্বার খোঁজো,find_contact,command
+recharge কেমনে dibo,recharge_mobile_bkash,noisy
+uatsap e kagoz পাঠাবো,send_file_whatsapp,noisy_augmented
+বিকাশ diye net richarge,recharge_mobile_bkash,noisy_augmented
+bicas send money,send_money_bkash,noisy_augmented
+ফাইল যাচ্ছে না কেন,send_file_whatsapp,question
+নাম্বার phone e rakho,save_contact,banglish
+sim recharge বিকাশ কিভাবে,recharge_mobile_bkash,banglish
+টাখা diye richarge কিরাম kori,recharge_mobile_bkash,noisy_augmented
+বিকাশ e recharge ফাটাবো কেমনে,recharge_mobile_bkash,noisy
+হোয়াটসঅ্যাপে ছবি পাঠাতে চাই,send_photo_whatsapp,standard
+মেসেঞ্জারে কল করবো কীভাবে,call_messenger,standard
+ফাইল cend hocche na,send_file_whatsapp,noisy_augmented
+facebook messanger কল,call_messenger,noisy_augmented
+phone e karo নাম্বার khoji,find_contact,banglish
+messanger e ring dibo,call_messenger,noisy_augmented
+কল dibo messenjar,call_messenger,noisy_augmented
+messenjar কল kemba,call_messenger,noisy_augmented
+টেহা ফাটাবো কিভাবে বিকাশ,send_money_bkash,noisy_augmented
+বিকাশ payment korbo,send_money_bkash,noisy_augmented
+ফটো ta ke ফাটাবো,send_photo_whatsapp,noisy_augmented
+hoyatsap e foto দিতে chai,send_photo_whatsapp,noisy_augmented
+messenjar কল কিরাম dibo,call_messenger,noisy
+uatsap ফাইল,send_file_whatsapp,noisy_augmented
+টাকা transfer বিকাশ,send_money_bkash,broken
+ছবি pathaite pari na,send_photo_whatsapp,noisy
+বিকাশ payment কেমনে,send_money_bkash,noisy
+send ডকুমেন্ট wattsap,send_file_whatsapp,noisy_augmented
+অ্যাপ namao,download_app,command
+অ্যাপ dounload store,download_app,noisy_augmented
+অ্যাপ ta kothay pabo,download_app,banglish
+টাখা ফাটাবো বিকাশ e,send_money_bkash,noisy
+messenjar কল কেমনে jay,call_messenger,noisy_augmented
+bicas e টাখা bharbo,recharge_mobile_bkash,noisy_augmented
+send money bicas কিভাবে,send_money_bkash,noisy_augmented
+বিকাশ theke richarge কিরাম,recharge_mobile_bkash,noisy_augmented
+হোয়াটসঅ্যাপ e kagoj পাঠাবো,send_file_whatsapp,banglish
+net cholate chai,turn_on_mobile_data,banglish
+bicas theke recharge hoy ki,recharge_mobile_bkash,noisy_augmented
+sim e টেহা dibo বিকাশ,recharge_mobile_bkash,noisy_augmented
+wayfi diye ইন্টারনেট chalabo,turn_on_wifi,noisy_augmented
+wayfi hochhe na,turn_on_wifi,noisy_augmented
+play store e অ্যাপ কিরাম pabo,download_app,noisy
+noya contect banabo,save_contact,noisy_augmented
+ছবি fatamu কেমনে,send_photo_whatsapp,noisy_augmented
+lombor khujbo কেমনে,find_contact,noisy
+টাখা দিতে chai,send_money_bkash,noisy_augmented
+অ্যাপ ইনস্টল koro,download_app,banglish
+waiphy on switch,turn_on_wifi,noisy_augmented
+ফাইল আপলোড করবো,send_file_whatsapp,mixed
+নম্বর সেভ করো,save_contact,command
+waiphy খেমনে connect hobe,turn_on_wifi,noisy_augmented
+contact banabo খেমনে,save_contact,noisy_augmented
+numbor কিরাম store kori,save_contact,noisy_augmented
+ডাটা band hoye gese,turn_on_mobile_data,mixed
+waiphy on switch,turn_on_wifi,noisy_augmented
+contact e lombor nai,find_contact,noisy
+ফাইল share কিভাবে hoy,send_file_whatsapp,banglish
+router connect korbo,turn_on_wifi,banglish
+send ফাইল korte hobe,send_file_whatsapp,banglish
+contect ta gelo kothay,find_contact,noisy_augmented
+অ্যাপ e jacche na,download_app,broken
+ফেসবুক মেসেঞ্জারে কল,call_messenger,mixed
+messanger audio কেমনে,call_messenger,noisy_augmented
+টেহা jabe বিকাশ diye,send_money_bkash,noisy_augmented
+foto ta দাও,send_photo_whatsapp,banglish
+বিকাশে টাকা দিতে চাই,send_money_bkash,standard
+nambar save hocche na,save_contact,noisy_augmented
+টেহা pathao বিকাশ,send_money_bkash,noisy_augmented
+sim e টাখা dibo বিকাশ,recharge_mobile_bkash,noisy_augmented
+image ta fatao,send_photo_whatsapp,noisy_augmented
+wayfi on koro,turn_on_wifi,noisy_augmented
+mobile e টাখা bhoro,recharge_mobile_bkash,noisy_augmented
+contect banabo কিভাবে,save_contact,noisy_augmented
+ওয়াইফাই on nai keno,turn_on_wifi,banglish
+waiphy band hoye gese,turn_on_wifi,noisy_augmented
+contect store korbo,save_contact,noisy_augmented
+টাকা transfer বিকাশ,send_money_bkash,noisy_augmented
+হোয়াটসঅ্যাপ ডকুমেন্ট fatao,send_file_whatsapp,noisy
+waiphy on কিরাম,turn_on_wifi,noisy
+messenjar dial korbo,call_messenger,noisy_augmented
+contact store korbo,save_contact,banglish
+contact save hochhe na,save_contact,banglish
+অ্যাপ dounload korte hobe,download_app,noisy_augmented
+instol কেমনে,download_app,noisy_augmented
+contect save kori কিভাবে,save_contact,noisy_augmented
+foto send কেমনে,send_photo_whatsapp,noisy
+lombor khojbar niyom,find_contact,noisy
+play store কিরাম jai,download_app,noisy_augmented
+নম্বর নেই কোথায়,find_contact,question
+নাম্বার ta kothay thake,find_contact,banglish
+কল করা দেখাও মেসেঞ্জারে,call_messenger,command
+বিকাশ টাকা পাঠা,send_money_bkash,noisy
+sim ডাটা on,turn_on_mobile_data,broken
+payment বিকাশ,send_money_bkash,noisy_augmented
+ওয়াইফাই chalate chai,turn_on_wifi,banglish
+play store kemon kore jai,download_app,noisy_augmented
+বিকাশে পাঠানো দেখাও,send_money_bkash,command
+টেহা pathao বিকাশ,send_money_bkash,noisy_augmented
+contect list dekhai,find_contact,noisy_augmented
+payment বিকাশ,send_money_bkash,broken
+waiphy kaj korche na,turn_on_wifi,noisy_augmented
+কন্টাক্ট দেখাও,find_contact,command
+lombor ta pawa jacche na,find_contact,noisy
+বিকাশ mobile top up,recharge_mobile_bkash,noisy_augmented
+ডাটা on off কেমনে kori,turn_on_mobile_data,noisy
+mobile balance nai বিকাশ diye দাও,recharge_mobile_bkash,noisy_augmented
+বিকাশ mobile টেহা,recharge_mobile_bkash,noisy_augmented
+contact ta gelo kothay,find_contact,banglish
+richarge বিকাশ কিভাবে,recharge_mobile_bkash,noisy_augmented
+বিকাশে রিচার্জ হয় কীভাবে,recharge_mobile_bkash,question
+ডাটা on কেমনে hoy,turn_on_mobile_data,noisy
+বিকাশ e টেহা ফাটাবো কেমনে,send_money_bkash,noisy_augmented
+নতুন নম্বর রাখতে চাই,save_contact,standard
+messenjar কল কেমনে,call_messenger,noisy_augmented
+বিকাশ e send hobe,send_money_bkash,banglish
+phonebook e contact khuji,find_contact,banglish
+store theke namabo,download_app,banglish
+messenjar কল কিরাম,call_messenger,noisy_augmented
+bicas payment কেমনে,send_money_bkash,noisy_augmented
+ছবি ফাটাবো wattsap e,send_photo_whatsapp,noisy_augmented
+ফাইল ফাটাবো uatsap e কেমনে,send_file_whatsapp,noisy_augmented
+ওয়াইফাই diye ইন্টারনেট chalabo,turn_on_wifi,banglish
+টেহা dibo bicas te,send_money_bkash,noisy_augmented
+mobile e টেহা boro বিকাশ,recharge_mobile_bkash,noisy_augmented
+lambar rakhar niyom,save_contact,noisy_augmented
+হোয়াটসঅ্যাপ e ফটো cend korbo কিভাবে,send_photo_whatsapp,noisy_augmented
+টেকা pathate parchhi na বিকাশ e,send_money_bkash,noisy_augmented
+waiphy chalate parchhi na,turn_on_wifi,noisy_augmented
+teyha e বিকাশ,send_money_bkash,noisy_augmented
+waiphy connect hocche na,turn_on_wifi,noisy_augmented
+নাম্বার save korbo খেমনে,save_contact,noisy_augmented
+hoyatsap ফাইল,send_file_whatsapp,noisy_augmented
+ছবি কেমনে pathai,send_photo_whatsapp,noisy_augmented
+ডাটা on r niyom,turn_on_mobile_data,banglish
+play store theke অ্যাপ namabo,download_app,banglish
+ওয়াইফাই on korbo কিভাবে,turn_on_wifi,banglish
+বিকাশ টেকা dibo কিভাবে,send_money_bkash,noisy
+contect list e add kori ki kore,save_contact,noisy_augmented
+nambar ta nai keno,find_contact,noisy
+waiphy kothay,turn_on_wifi,noisy_augmented
+messenjar e phone কিরাম,call_messenger,noisy
+mobile balance nai bicas diye দাও,recharge_mobile_bkash,noisy_augmented
+messanger diye phone dibo,call_messenger,noisy_augmented
+ফোনে নাম্বার রাখো,save_contact,command
+numbor ta khoje দাও,find_contact,noisy
+ইন্টারনেট খেমনে chalabo,turn_on_mobile_data,noisy_augmented
+পিডিএফ পাঠামু হোয়াটসঅ্যাপ e,send_file_whatsapp,noisy_augmented
+foto fatao hoyatsap te,send_photo_whatsapp,noisy_augmented
+বিকাশ e টাখা pataite hobe,send_money_bkash,noisy_augmented
+bicas e টাকা কেমনে পাঠাবো,send_money_bkash,noisy_augmented
+মোবাইলে টাকা ভরো,recharge_mobile_bkash,command
+ফটো ta ke পাঠাবো,send_photo_whatsapp,question
+বিকাশ money transfer,send_money_bkash,noisy_augmented
+lombor save button,save_contact,broken
+contact khujte hobe,find_contact,mixed
+ছবি ta pathaite chai,send_photo_whatsapp,noisy
+ফাইল send korbo wattsap e,send_file_whatsapp,noisy_augmented
+টাকা sesh recharge দাও,recharge_mobile_bkash,banglish
+messanger কল hocche na,call_messenger,noisy_augmented
+contect list e add kori ki kore,save_contact,noisy_augmented
+play store অ্যাপ dounload কিরাম,download_app,noisy_augmented
+bicas diye recharge korbo,recharge_mobile_bkash,noisy_augmented
+অ্যাপ কেমনে namabo,download_app,noisy
+বিকাশ richarge niyom,recharge_mobile_bkash,noisy_augmented
+save contect kori ki kore,save_contact,noisy_augmented
+ফাইল attach কেমনে hoy,send_file_whatsapp,noisy
+ডাউনলোড হচ্ছে না কেন,download_app,question
+ডেটা নেই কেন,turn_on_mobile_data,question
+ছবি pathaite hobe,send_photo_whatsapp,banglish
+messenjar e ring দাও,call_messenger,noisy
+অ্যাপ ইনস্টল korte chai,download_app,banglish
+টেহা sesh recharge দাও,recharge_mobile_bkash,noisy_augmented
+টাখা diye richarge কিরাম kori,recharge_mobile_bkash,noisy_augmented
+numbor কিভাবে store kori,save_contact,noisy
+নাম্বার list dekhao,find_contact,banglish
+lombor store কিরাম,save_contact,noisy
+টাকা transfer bicas,send_money_bkash,noisy_augmented
+অ্যাপ ta instol koro,download_app,noisy_augmented
+বিকাশ e recharge dibo কিরাম,recharge_mobile_bkash,noisy_augmented
+অ্যাপ dounload কেমনে hoy,download_app,noisy_augmented
+ফাইল পাঠাতে চাই হোয়াটসঅ্যাপে,send_file_whatsapp,standard
+ইনস্টল কেমনে hoy,download_app,noisy_augmented
+messenjar ring কেমনে,call_messenger,noisy_augmented
+top up বিকাশ e,recharge_mobile_bkash,noisy_augmented
+bicas diye টাখা দিতে chai,send_money_bkash,noisy_augmented
+মেসেঞ্জার ভিডিও,call_messenger,broken
+messenjar খেমনে কল kori,call_messenger,noisy_augmented
+contact find korbo ki kore,find_contact,banglish
+lombor ta kothay gelo,find_contact,noisy_augmented
+মোবাইল ডেটা চালু করবো কীভাবে,turn_on_mobile_data,standard
+ছবি ফাটাবো wattsap diye,send_photo_whatsapp,noisy_augmented
+facebook e কল dibo কিরাম,call_messenger,noisy_augmented
+messenjar e kotha bolte chai,call_messenger,noisy_augmented
+wayfi on korte parchhi na,turn_on_wifi,noisy_augmented
+messenjar diye phone dibo,call_messenger,noisy_augmented
+sim e teyha dibo বিকাশ,recharge_mobile_bkash,noisy_augmented
+phonebook e contect khuji,find_contact,noisy_augmented
+বিকাশ recharge কিরাম,recharge_mobile_bkash,noisy
+অ্যাপ store kothay,download_app,banglish
+ফটো ta ke fatao,send_photo_whatsapp,noisy_augmented
+nambar phone e rakho,save_contact,noisy_augmented
+বিকাশ richarge কেমনে hoy,recharge_mobile_bkash,noisy_augmented
+contect khujbo কিভাবে,find_contact,noisy_augmented
+contect banate chai,save_contact,noisy_augmented
+বিকাশ diye টেকা dibo,send_money_bkash,noisy_augmented
+হোয়াটসঅ্যাপ ছবি,send_photo_whatsapp,broken
+ছবি ফাটাবো হোয়াটসঅ্যাপ e,send_photo_whatsapp,noisy
+instol অ্যাপ কিরাম,download_app,noisy_augmented
+ওয়াইফাই চালু করবো কীভাবে,turn_on_wifi,standard
+contact khuja,find_contact,broken
+অ্যাপ ডাউনলোড korbo কিভাবে,download_app,banglish
+contact khujbo কিভাবে,find_contact,banglish
+টেকা voro mobile e,recharge_mobile_bkash,noisy_augmented
+টেকা e বিকাশ,send_money_bkash,noisy_augmented
+wayfi network কেমনে pabo,turn_on_wifi,noisy_augmented
+কল dibo messenger,call_messenger,banglish
+কল messenger,call_messenger,broken
+বিকাশ e recharge dibo কেমনে,recharge_mobile_bkash,noisy_augmented
+টাকা দিতে chai বিকাশ,send_money_bkash,banglish
+wayfi setting kothay,turn_on_wifi,noisy_augmented
+নম্বর রাখার নিয়ম,save_contact,question
+ফটো share korbo kemon kore,send_photo_whatsapp,banglish
+বিকাশ e টেহা কেমনে পাঠাবো,send_money_bkash,noisy_augmented
+হোয়াটসঅ্যাপ e ডকুমেন্ট কিভাবে jai,send_file_whatsapp,banglish
+অ্যাপ instol korte chai,download_app,noisy_augmented
+অ্যাপ ইনস্টল করো,download_app,command
+ওয়াইফাই connection কেমনে pabo,turn_on_wifi,noisy
+messanger e কল korbo,call_messenger,noisy_augmented
+hoyatsap ডকুমেন্ট fatao,send_file_whatsapp,noisy_augmented
+বিকাশ diye balance dibo,recharge_mobile_bkash,noisy_augmented
+contect list e nai,find_contact,noisy_augmented
+ওয়াইফাই on,turn_on_wifi,broken
+waiphy chalao,turn_on_wifi,noisy
+contect khujte hobe,find_contact,noisy_augmented
+ছবি পাঠানো হবে কীভাবে,send_photo_whatsapp,question
+connect waiphy korbo,turn_on_wifi,noisy_augmented
+হোয়াটসঅ্যাপে ফাইল পাঠামু কীভাবে,send_file_whatsapp,noisy_augmented
+নাম দিয়ে নম্বর খুঁজবো,find_contact,standard
+ছবি pathai কেমনে,send_photo_whatsapp,noisy
+mobile balance sesh,recharge_mobile_bkash,broken
+recharge বিকাশ কিরাম,recharge_mobile_bkash,noisy_augmented
+পিডিএফ ta pathao hoyatsap e,send_file_whatsapp,noisy_augmented
+বিকাশ theke টেহা jabe,send_money_bkash,noisy_augmented
+বিকাশ টাকা কিভাবে,send_money_bkash,broken
+phonebook e nai,find_contact,broken
+ডকুমেন্ট cend kori ki kore,send_file_whatsapp,noisy_augmented
+বিকাশ টাকা cend কিরাম kori,send_money_bkash,noisy_augmented
+contect e add কেমনে,save_contact,noisy_augmented
+বিকাশ diye net recharge,recharge_mobile_bkash,banglish
+contect ta gelo kothay,find_contact,noisy_augmented
+ডকুমেন্ট কেমনে পাঠাবো,send_file_whatsapp,noisy
+sim e টাকা nai richarge koro,recharge_mobile_bkash,noisy_augmented
+messenjar audio কেমনে,call_messenger,noisy_augmented
+naam diye নাম্বার save,save_contact,banglish
+নাম্বার khujte pari na,find_contact,banglish
+instol অ্যাপ কিরাম,download_app,noisy_augmented
+send money বিকাশ খেমনে,send_money_bkash,noisy_augmented
+messanger diye phone dibo,call_messenger,noisy_augmented
+lombor add কেমনে,save_contact,noisy
+waiphy band hoye gese,turn_on_wifi,noisy_augmented
+ডেটা চালু হচ্ছে না,turn_on_mobile_data,broken
+recharge nai sim e,recharge_mobile_bkash,broken
+ওয়াইফাই chalate parchhi na,turn_on_wifi,banglish
+net on kora hobe,turn_on_mobile_data,mixed
+save button koi,save_contact,banglish
+নাম্বার কোথায় আছে,find_contact,noisy_augmented
+ইনস্টল অ্যাপ কিরাম,download_app,noisy
+অ্যাপ খেমনে namai,download_app,noisy_augmented
+messenjar কল দিতে chai,call_messenger,noisy_augmented
+messenjar video কেমনে kori,call_messenger,noisy_augmented
+facebook e কল dibo কিভাবে,call_messenger,banglish
+অ্যাপ ইনস্টল কিরাম,download_app,noisy
+বিকাশ mobile টেহা,recharge_mobile_bkash,noisy
+ছবি কিভাবে cend hoy,send_photo_whatsapp,noisy_augmented
+messenjar video কেমনে kori,call_messenger,noisy_augmented
+টেহা transfer hobe বিকাশ e,send_money_bkash,noisy_augmented
+ফাইল fatao কেমনে,send_file_whatsapp,noisy_augmented
+ম্যাসেঞ্জারে ফোন করবো,call_messenger,standard
+wayfi band,turn_on_wifi,noisy_augmented
+ছবি send করবো,send_photo_whatsapp,mixed
+কাউকে খুঁজছি ফোনবুকে,find_contact,standard
+ছবি পাঠাতে চাই কাউকে,send_photo_whatsapp,standard
+bicas টেকা pathaite chai,send_money_bkash,noisy_augmented
+ফাইল ফাটাবো uatsap e কেমনে,send_file_whatsapp,noisy_augmented
+hoyatsap e kagoj পাঠাবো,send_file_whatsapp,noisy_augmented
+ওয়াইফাই cholche na,turn_on_wifi,banglish
+বিকাশ theke recharge hoy ki,recharge_mobile_bkash,question
+ডকুমেন্ট পাঠাবো হোয়াটসঅ্যাপে,send_file_whatsapp,standard
+হোয়াটসঅ্যাপ ফাইল cend কিরাম,send_file_whatsapp,noisy_augmented
+ওয়াইফাই on খেমনে hoy,turn_on_wifi,noisy_augmented
+ফাইল kemon kore pathai,send_file_whatsapp,noisy_augmented
+টাকা পাঠাও,send_money_bkash,command
+naam diye khojbo,find_contact,banglish
+mobile ডাটা on korbo কেমনে,turn_on_mobile_data,noisy_augmented
+নাম দিয়ে নম্বর সেভ করবো,save_contact,standard
+মোবাইল নেট,turn_on_mobile_data,broken
+top up বিকাশ e,recharge_mobile_bkash,banglish
+ইন্টারনেট কাজ করছে না,turn_on_mobile_data,standard
+বিকাশ e টাকা ফাদামু,send_money_bkash,noisy_augmented
+connect wayfi korbo,turn_on_wifi,noisy_augmented
+বিকাশ mobile top up,recharge_mobile_bkash,broken
+waiphy band,turn_on_wifi,noisy_augmented
+recharge বিকাশ টেকা,recharge_mobile_bkash,noisy_augmented
+upload ফাইল হোয়াটসঅ্যাপ,send_file_whatsapp,broken
+ওয়াইফাই,turn_on_wifi,broken
+net খেমনে chalabo,turn_on_mobile_data,noisy
+noya contect banabo,save_contact,noisy_augmented
+ফাইল attach korbo ki kore,send_file_whatsapp,banglish
+mobile recharge বিকাশ e,recharge_mobile_bkash,noisy_augmented
+টাকা গেলো না বিকাশে,send_money_bkash,question
+টেহা diye recharge hobe,recharge_mobile_bkash,noisy
+বিকাশ e sim recharge কেমনে,recharge_mobile_bkash,noisy
+বিকাশ richarge korte chai,recharge_mobile_bkash,noisy_augmented
+নতুন অ্যাপ কোথায় পাই,download_app,question
+ওয়াইফাই কেমনে connect hoy,turn_on_wifi,noisy
+অ্যাপ dounload korbo কিভাবে,download_app,noisy_augmented
+কল korbo messenger কিভাবে,call_messenger,banglish
+ওয়াইফাই switch on kori ki kore,turn_on_wifi,banglish
+recharge বিকাশ,recharge_mobile_bkash,broken
+numbor ta rakhte chai,save_contact,noisy_augmented
+অ্যাপ ta instol koro,download_app,noisy_augmented
+ইন্টারনেট কিরাম chalabo,turn_on_mobile_data,noisy_augmented
+ইন্টারনেট চালু করতে চাই,turn_on_mobile_data,standard
+messenger audio কল কেমনে,call_messenger,noisy
+ওয়াইফাই setting dekhao,turn_on_wifi,banglish
+হোয়াটসঅ্যাপ e kagoj ফাদামু,send_file_whatsapp,noisy_augmented
+ছবি pathaite pari na,send_photo_whatsapp,noisy_augmented
+কল korbo messenger e খেমনে,call_messenger,noisy_augmented
+ওয়াইফাই on korte parchhi na,turn_on_wifi,banglish
+ফাইল ta fatao,send_file_whatsapp,noisy_augmented
+messenjar dial korbo,call_messenger,noisy_augmented
+হোয়াটসঅ্যাপ ফাইল কেমনে jai,send_file_whatsapp,noisy
+contect e add কেমনে,save_contact,noisy_augmented
+মেসেঞ্জার দিয়ে কথা বলবো,call_messenger,standard
+অ্যাপ ইনস্টল খেমনে hobe,download_app,noisy_augmented
+ডকুমেন্ট send kori ki kore,send_file_whatsapp,banglish
+বিকাশ transfer কেমনে hoy,send_money_bkash,noisy_augmented
+phone e karo numbor khoji,find_contact,noisy_augmented
+contect find korbo ki kore,find_contact,noisy_augmented
+mobile top up বিকাশ কিভাবে,recharge_mobile_bkash,noisy_augmented
+noya numbor rakha,save_contact,noisy_augmented
+ছবি fatao কেমনে,send_photo_whatsapp,noisy_augmented
+messenger e কল কিরাম dibo,call_messenger,noisy
+ডাটা কেমনে on hobe,turn_on_mobile_data,noisy
+messenjar কিভাবে কল kori,call_messenger,noisy
+phone book e nai,find_contact,broken
+wayfi chalate chai,turn_on_wifi,noisy_augmented
+টাকা e বিকাশ,send_money_bkash,broken
+বিকাশ theke richarge কিরাম,recharge_mobile_bkash,noisy_augmented
+teyha pathate parchhi na বিকাশ e,send_money_bkash,noisy_augmented
+play store অ্যাপ ডাউনলোড কিরাম,download_app,noisy
+messenger audio কেমনে,call_messenger,noisy
+naam diye নাম্বার khoji,find_contact,banglish
+phonebook khujbo,find_contact,banglish
+হোয়াটসঅ্যাপ e ফটো send korbo কেমনে,send_photo_whatsapp,noisy_augmented
+টেহা pathao বিকাশ,send_money_bkash,noisy
+wayfi connection কেমনে pabo,turn_on_wifi,noisy_augmented
+contect store korbo,save_contact,noisy_augmented
+নতুন কন্টাক্ট বানাবো,save_contact,mixed
+net কিরাম chalabo,turn_on_mobile_data,noisy
+wayfi band,turn_on_wifi,noisy_augmented
+dounload hocche na keno,download_app,noisy_augmented
+টাকা পাঠাবো বিকাশে,send_money_bkash,standard
+wayfi কিরাম on kori,turn_on_wifi,noisy_augmented
+ওয়াইফাই on koro,turn_on_wifi,banglish
+টাখা jabe বিকাশ diye,send_money_bkash,noisy_augmented
+messenger video কল korbo,call_messenger,banglish
+বিকাশ payment korbo,send_money_bkash,banglish
+হোয়াটসঅ্যাপ e ডকুমেন্ট কেমনে jai,send_file_whatsapp,noisy_augmented
+ফাইল cend korbo হোয়াটসঅ্যাপ e,send_file_whatsapp,noisy_augmented
+ইন্টারনেট নেই,turn_on_mobile_data,broken
