@@ -1,0 +1,82 @@
+{
+    "apps": {
+    "whatsapp": {
+      "send_photo_whatsapp": {
+        "title": "ছবি পাঠানো",
+        "steps": [
+          "হোয়াটসঅ্যাপ খুলুন",
+          "যাকে পাঠাবেন তার নাম খুঁজুন",
+          "নিচে ক্লিপ আইকনে চাপ দিন",
+          "গ্যালারি থেকে ছবি বেছে নিন",
+          "পাঠাও বাটনে চাপ দিন"
+        ]
+      },
+      "send_file_whatsapp": {
+        "title": "ফাইল পাঠানো",
+        "steps": [
+          "হোয়াটসঅ্যাপ খুলুন",
+          "চ্যাট খুলুন",
+          "ক্লিপ আইকনে চাপ দিন",
+          "ডকুমেন্ট বেছে নিন",
+          "পাঠাও বাটনে চাপ দিন"
+        ]
+      }
+    },
+    "bkash": {
+      "send_money_bkash": {
+        "title": "টাকা পাঠানো",
+        "steps": [
+          "বিকাশ অ্যাপ খুলুন",
+          "সেন্ড মানি তে চাপ দিন",
+          "নাম্বার লিখুন",
+          "টাকার পরিমাণ লিখুন",
+          "পিন দিন",
+          "নিশ্চিত করুন"
+        ]
+      },
+      "recharge_mobile_bkash": {
+        "title": "মোবাইল রিচার্জ",
+        "steps": [
+          "বিকাশ অ্যাপ খুলুন",
+          "মোবাইল রিচার্জে চাপ দিন",
+          "নাম্বার লিখুন",
+          "টাকার পরিমাণ লিখুন",
+          "পিন দিন",
+          "নিশ্চিত করুন"
+        ]
+      }
+    },
+    "settings": {
+      "turn_on_wifi": {
+        "title": "ওয়াইফাই চালু করা",
+        "steps": [
+          "ফোনের সেটিংস খুলুন",
+          "ওয়াইফাই তে চাপ দিন",
+          "ওয়াইফাই অন করুন",
+          "নেটওয়ার্ক বেছে নিন",
+          "পাসওয়ার্ড দিন"
+        ]
+      },
+      "turn_on_mobile_data": {
+        "title": "মোবাইল ডেটা চালু করা",
+        "steps": [
+          "ফোনের সেটিংস খুলুন",
+          "মোবাইল ডেটা তে চাপ দিন",
+          "ডেটা অন করুন"
+        ]
+      }
+    }
+  },
+  "intent_to_app": {
+    "send_photo_whatsapp": "whatsapp",
+    "send_file_whatsapp": "whatsapp",
+    "send_money_bkash": "bkash",
+    "recharge_mobile_bkash": "bkash",
+    "turn_on_wifi": "settings",
+    "turn_on_mobile_data": "settings",
+    "find_contact": "contacts",
+    "save_contact": "contacts",
+    "call_messenger": "messenger",
+    "download_app": "playstore"
+  }
+}
