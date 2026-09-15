@@ -1,5 +1,5 @@
 import json
-from gtts import gTTS
+# from gtts import gTTS
 import os
 
 # Load JSON steps guide
@@ -20,5 +20,5 @@ def speak_steps(app, intent):
         full_text = f"ধাপ {idx}. {step}"
         print(full_text)
 
-        tts = gTTS(full_text, lang="bn", slow=True)
-        tts.save(f"step_{idx}.mp3")
+        # tts = gTTS(full_text, lang="bn", slow=True)
+        # tts.save(f"step_{idx}.mp3")
